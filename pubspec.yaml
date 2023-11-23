@@ -1,6 +1,6 @@
-name: blur_detector
+name: blur_detector_image
 description: Copy from Blur Detector Dart by GobalKrishnan - Perform Blur Detection using Laplacian Filter, need to set threshold to find blur or not.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/Crewlan/blur_detector
 
 environment:

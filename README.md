@@ -1,4 +1,5 @@
 # blur_detector_dart
+Copy from Blur Detector Dart by GobalKrishnan but with librarys update
 Perform Blur Detection using Laplacian Filter , need to set threshold to find blur or not.
 
 ```dart 

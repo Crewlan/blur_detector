@@ -1,4 +1,4 @@
-import 'package:blur_detector/blur_detector_dart.dart';
+import 'package:blur_detector_image/blur_detector_dart.dart';
 
 Future<void> main(List<String> arguments) async {
   var list = [
