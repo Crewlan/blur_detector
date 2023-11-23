@@ -1,10 +1,10 @@
 name: blur_detector
-description: Perform Blur Detection using Laplacian Filter, need to set threshold to find blur or not.
-version: 0.0.1
-# homepage:
+description: Copy from Blur Detector Dart by GobalKrishnan - Perform Blur Detection using Laplacian Filter, need to set threshold to find blur or not.
+version: 1.0.0
+homepage: https://github.com/Crewlan/blur_detector
 
 environment:
-  sdk: ">=2.18.1 <4.0.0"
+  sdk: ">=3.1.3 <4.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
